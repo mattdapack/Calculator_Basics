@@ -1,0 +1,53 @@
+body {
+    font-family: 'Raleway', sans-serif !important;
+    background-color: #F5F5F5 !important;
+    /* background-color: #4D4C7D !important;  */
+    /* color: ; */
+}
+
+.card { 
+    
+   background-color: #4D4C7D !important;
+   color: #F5F5F5 !important;
+ } 
+.card-body{
+    padding: 0% !important;
+    
+    
+}
+
+
+.row {
+    height: 100%;
+    width: 100%;
+    
+   
+ }
+
+ 
+
+ .calc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400 !important;
+    font-size: 25px !important;
+    border-radius: 0% !important;
+
+
+ }
+ .output {
+   min-height: 40px !important;
+   justify-content: right;
+ }
+
+ .ops {
+    font-weight: 500 !important;
+    font-size: 25px !important;
+    
+ }
+
+ .pressed {
+   box-shadow: 0 0 20px white;
+   background-color: grey;
+ }
